@@ -1,0 +1,124 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --navy:        #0f1f3d;
+  --navy-mid:    #1a3358;
+  --navy-light:  #264573;
+  --accent:      #2d7dd2;
+  --accent-bg:   #e8f2fc;
+  --accent-dark: #1a5fa8;
+
+  --text:        #1c1c2e;
+  --text-muted:  #64748b;
+  --text-light:  #94a3b8;
+
+  --bg:          #f4f6f9;
+  --bg-card:     #ffffff;
+  --border:      #e2e8f0;
+  --border-mid:  #cbd5e1;
+
+  --level-a1-bg:  #dcfce7; --level-a1:  #166534;
+  --level-a2-bg:  #d1fae5; --level-a2:  #065f46;
+  --level-b1-bg:  #dbeafe; --level-b1:  #1e40af;
+  --level-b2-bg:  #fef3c7; --level-b2:  #92400e;
+  --level-c1-bg:  #ffedd5; --level-c1:  #9a3412;
+  --level-c2-bg:  #fce7f3; --level-c2:  #9d174d;
+
+  --radius-sm: 6px;
+  --radius:    10px;
+  --radius-lg: 16px;
+  --radius-xl: 22px;
+
+  --shadow-sm: 0 1px 3px rgba(15,31,61,.06), 0 1px 2px rgba(15,31,61,.04);
+  --shadow:    0 4px 12px rgba(15,31,61,.08), 0 2px 4px rgba(15,31,61,.04);
+  --shadow-lg: 0 10px 30px rgba(15,31,61,.10), 0 4px 8px rgba(15,31,61,.06);
+
+  --font-body:    'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-display: 'Lora', Georgia, serif;
+
+  --header-h: 64px;
+}
+
+html { font-size: 16px; -webkit-text-size-adjust: 100%; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+img { display: block; max-width: 100%; }
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-mid); border-radius: 3px; }
+
+/* ── Utility ── */
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.page-content {
+  flex: 1;
+  padding: 28px 0 48px;
+}
+
+/* ── Level badges ── */
+.level-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .03em;
+}
+.level-A1 { background: var(--level-a1-bg); color: var(--level-a1); }
+.level-A2 { background: var(--level-a2-bg); color: var(--level-a2); }
+.level-B1 { background: var(--level-b1-bg); color: var(--level-b1); }
+.level-B2 { background: var(--level-b2-bg); color: var(--level-b2); }
+.level-C1 { background: var(--level-c1-bg); color: var(--level-c1); }
+.level-C2 { background: var(--level-c2-bg); color: var(--level-c2); }
+
+/* ── Back button ── */
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+  padding: 6px 0;
+  transition: color .15s;
+  background: none;
+  border: none;
+}
+.back-btn:hover { color: var(--accent); }
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 64px 24px;
+  color: var(--text-muted);
+}
+.empty-state .icon { font-size: 40px; margin-bottom: 12px; }
+.empty-state h3 { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 6px; }
+.empty-state p  { font-size: 14px; }
