@@ -1,0 +1,222 @@
+[
+  {
+    "id": "maths-measures_001",
+    "word": "fraction",
+    "ipa": "/ˈfræk.ʃən/",
+    "translation": "fracción",
+    "definition_en": "A number expressed as one quantity divided by another",
+    "example": "One half is a fraction written as 1/2.",
+    "level": "A2",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_002",
+    "word": "percentage",
+    "ipa": "/pəˈsen.tɪdʒ/",
+    "translation": "porcentaje",
+    "definition_en": "A proportion expressed as a number out of 100",
+    "example": "Sixty percent of students passed the exam.",
+    "level": "A2",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_003",
+    "word": "diameter",
+    "ipa": "/daɪˈæm.ɪ.tər/",
+    "translation": "diámetro",
+    "definition_en": "A straight line from one side of a circle to the other through the centre",
+    "example": "The diameter of the circle is 10 cm.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_004",
+    "word": "circumference",
+    "ipa": "/səˈkʌm.fər.əns/",
+    "translation": "circunferencia",
+    "definition_en": "The distance around the outside of a circle",
+    "example": "Calculate the circumference using pi times the diameter.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_005",
+    "word": "equation",
+    "ipa": "/ɪˈkweɪ.ʒən/",
+    "translation": "ecuación",
+    "definition_en": "A mathematical statement that two expressions are equal",
+    "example": "Solve the equation to find the value of x.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_006",
+    "word": "variable",
+    "ipa": "/ˈveər.i.ə.bəl/",
+    "translation": "variable",
+    "definition_en": "A symbol representing an unknown or changeable quantity",
+    "example": "In the equation, x is the variable.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_007",
+    "word": "symmetry",
+    "ipa": "/ˈsɪm.ɪ.tri/",
+    "translation": "simetría",
+    "definition_en": "The quality of being made up of exactly similar parts",
+    "example": "A square has four lines of symmetry.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_008",
+    "word": "volume",
+    "ipa": "/ˈvɒl.juːm/",
+    "translation": "volumen",
+    "definition_en": "The amount of space a three-dimensional object occupies",
+    "example": "Calculate the volume of the box.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_009",
+    "word": "probability",
+    "ipa": "/ˌprɒb.əˈbɪl.ɪ.ti/",
+    "translation": "probabilidad",
+    "definition_en": "The likelihood that something will happen, expressed as a number",
+    "example": "The probability of rolling a six is one in six.",
+    "level": "B2",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_010",
+    "word": "estimate",
+    "ipa": "/ˈes.tɪ.mɪt/",
+    "translation": "estimación / calcular aproximadamente",
+    "definition_en": "An approximate calculation of a value or quantity",
+    "example": "I estimate the journey will take about two hours.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "verb"
+  },
+  {
+    "id": "maths-measures_011",
+    "word": "ratio",
+    "ipa": "/ˈreɪ.ʃi.əʊ/",
+    "translation": "razón / proporción",
+    "definition_en": "The comparison of two quantities expressed as a fraction or with a colon",
+    "example": "The ratio of boys to girls in the class is 3:2.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_012",
+    "word": "calculate",
+    "ipa": "/ˈkæl.kjʊ.leɪt/",
+    "translation": "calcular",
+    "definition_en": "To find a result using mathematics",
+    "example": "Calculate the area of the triangle.",
+    "level": "A2",
+    "category": "maths-measures",
+    "type": "verb"
+  },
+  {
+    "id": "maths-measures_013",
+    "word": "perpendicular",
+    "ipa": "/ˌpɜː.pənˈdɪk.jʊ.lər/",
+    "translation": "perpendicular",
+    "definition_en": "At a right angle (90 degrees) to a line or surface",
+    "example": "The two lines are perpendicular to each other.",
+    "level": "B2",
+    "category": "maths-measures",
+    "type": "adjective"
+  },
+  {
+    "id": "maths-measures_014",
+    "word": "decimal",
+    "ipa": "/ˈdes.ɪ.məl/",
+    "translation": "decimal",
+    "definition_en": "A number expressed using a dot to separate whole numbers from fractions",
+    "example": "3.14 is the decimal approximation of pi.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_015",
+    "word": "metric system",
+    "ipa": "/ˈmet.rɪk ˌsɪs.təm/",
+    "translation": "sistema métrico",
+    "definition_en": "A system of measurement based on multiples of ten",
+    "example": "Most countries use the metric system.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_016",
+    "word": "square root",
+    "ipa": "/ˌskweər ˈruːt/",
+    "translation": "raíz cuadrada",
+    "definition_en": "A number which, when multiplied by itself, gives the original number",
+    "example": "The square root of 16 is 4.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_017",
+    "word": "graph",
+    "ipa": "/ɡrɑːf/",
+    "translation": "gráfico / gráfica",
+    "definition_en": "A diagram showing the relationship between two sets of numbers",
+    "example": "The graph shows sales data over 12 months.",
+    "level": "A2",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_018",
+    "word": "mean",
+    "ipa": "/miːn/",
+    "translation": "media / promedio",
+    "definition_en": "The average value calculated by dividing the sum by the count",
+    "example": "The mean of 4, 6 and 8 is 6.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_019",
+    "word": "negative number",
+    "ipa": "/ˌneɡ.ə.tɪv ˈnʌm.bər/",
+    "translation": "número negativo",
+    "definition_en": "A number less than zero",
+    "example": "Minus 5 is a negative number.",
+    "level": "A2",
+    "category": "maths-measures",
+    "type": "noun"
+  },
+  {
+    "id": "maths-measures_020",
+    "word": "algebra",
+    "ipa": "/ˈæl.dʒɪ.brə/",
+    "translation": "álgebra",
+    "definition_en": "A branch of maths using letters and symbols to represent numbers",
+    "example": "Algebra is taught in most secondary schools.",
+    "level": "B1",
+    "category": "maths-measures",
+    "type": "noun"
+  }
+]

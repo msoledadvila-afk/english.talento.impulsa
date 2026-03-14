@@ -1,0 +1,222 @@
+[
+  {
+    "id": "describing-data_001",
+    "word": "trend",
+    "ipa": "/trend/",
+    "translation": "tendencia",
+    "definition_en": "A general direction in which data is changing over time",
+    "example": "The graph shows an upward trend in sales.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_002",
+    "word": "fluctuate",
+    "ipa": "/ˈflʌk.tʃu.eɪt/",
+    "translation": "fluctuar / variar",
+    "definition_en": "To change frequently and irregularly",
+    "example": "Temperatures fluctuated wildly throughout the month.",
+    "level": "B2",
+    "category": "describing-data",
+    "type": "verb"
+  },
+  {
+    "id": "describing-data_003",
+    "word": "peak",
+    "ipa": "/piːk/",
+    "translation": "punto máximo / pico",
+    "definition_en": "The highest point in a series of data",
+    "example": "Sales reached a peak in December.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_004",
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "translation": "descenso / disminución",
+    "definition_en": "A gradual decrease in amount or quality",
+    "example": "There has been a steady decline in car sales.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_005",
+    "word": "plateau",
+    "ipa": "/ˈplæt.əʊ/",
+    "translation": "meseta / estabilización",
+    "definition_en": "A period of little change after growth or increase",
+    "example": "After rapid growth, profits reached a plateau.",
+    "level": "C1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_006",
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪf.ɪ.kənt/",
+    "translation": "significativo/a",
+    "definition_en": "Large or important enough to be noticed",
+    "example": "There was a significant rise in unemployment.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "adjective"
+  },
+  {
+    "id": "describing-data_007",
+    "word": "marginal",
+    "ipa": "/ˈmɑː.dʒɪ.nəl/",
+    "translation": "marginal / leve",
+    "definition_en": "Very small or slight",
+    "example": "There was only a marginal improvement in results.",
+    "level": "C1",
+    "category": "describing-data",
+    "type": "adjective"
+  },
+  {
+    "id": "describing-data_008",
+    "word": "proportion",
+    "ipa": "/prəˈpɔː.ʃən/",
+    "translation": "proporción",
+    "definition_en": "A part of a total considered as a fraction",
+    "example": "A large proportion of students passed the exam.",
+    "level": "B2",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_009",
+    "word": "exceed",
+    "ipa": "/ɪkˈsiːd/",
+    "translation": "superar / exceder",
+    "definition_en": "To be greater than a particular amount",
+    "example": "Costs exceeded the original budget by 20%.",
+    "level": "B2",
+    "category": "describing-data",
+    "type": "verb"
+  },
+  {
+    "id": "describing-data_010",
+    "word": "approximately",
+    "ipa": "/əˈprɒk.sɪ.mɪt.li/",
+    "translation": "aproximadamente",
+    "definition_en": "Used to show that a number is not exact",
+    "example": "Approximately 60% of respondents agreed.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "adverb"
+  },
+  {
+    "id": "describing-data_011",
+    "word": "sharp",
+    "ipa": "/ʃɑːp/",
+    "translation": "pronunciado/a / abrupto/a",
+    "definition_en": "Sudden and large in amount",
+    "example": "There was a sharp increase in prices last year.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "adjective"
+  },
+  {
+    "id": "describing-data_012",
+    "word": "gradual",
+    "ipa": "/ˈɡrædʒ.u.əl/",
+    "translation": "gradual / progresivo/a",
+    "definition_en": "Happening slowly and steadily over time",
+    "example": "There has been a gradual improvement in standards.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "adjective"
+  },
+  {
+    "id": "describing-data_013",
+    "word": "correlation",
+    "ipa": "/ˌkɒr.əˈleɪ.ʃən/",
+    "translation": "correlación",
+    "definition_en": "A relationship between two sets of data",
+    "example": "There is a strong correlation between exercise and health.",
+    "level": "C1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_014",
+    "word": "outlier",
+    "ipa": "/ˈaʊt.laɪ.ər/",
+    "translation": "valor atípico",
+    "definition_en": "A data point that is very different from the others",
+    "example": "The outlier in the data skewed the average significantly.",
+    "level": "C1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_015",
+    "word": "steady",
+    "ipa": "/ˈsted.i/",
+    "translation": "constante / sostenido/a",
+    "definition_en": "Not changing much; regular and continuous",
+    "example": "The company showed steady growth over five years.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "adjective"
+  },
+  {
+    "id": "describing-data_016",
+    "word": "double",
+    "ipa": "/ˈdʌb.əl/",
+    "translation": "duplicarse / doblar",
+    "definition_en": "To increase to twice the original amount",
+    "example": "The number of users doubled in just six months.",
+    "level": "A2",
+    "category": "describing-data",
+    "type": "verb"
+  },
+  {
+    "id": "describing-data_017",
+    "word": "halve",
+    "ipa": "/hɑːv/",
+    "translation": "reducir a la mitad",
+    "definition_en": "To reduce to half the original amount",
+    "example": "The cost of solar panels has halved in ten years.",
+    "level": "B2",
+    "category": "describing-data",
+    "type": "verb"
+  },
+  {
+    "id": "describing-data_018",
+    "word": "average",
+    "ipa": "/ˈæv.ər.ɪdʒ/",
+    "translation": "promedio / media",
+    "definition_en": "The result of adding numbers together and dividing by how many there are",
+    "example": "The average temperature in July is 28 degrees.",
+    "level": "A2",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_019",
+    "word": "survey",
+    "ipa": "/ˈsɜː.veɪ/",
+    "translation": "encuesta / sondeo",
+    "definition_en": "A study in which information is collected from a group of people",
+    "example": "The survey showed that 80% were satisfied with the service.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "noun"
+  },
+  {
+    "id": "describing-data_020",
+    "word": "figures",
+    "ipa": "/ˈfɪɡ.əz/",
+    "translation": "cifras / datos numéricos",
+    "definition_en": "Numbers used as data or statistics",
+    "example": "The latest figures show a drop in unemployment.",
+    "level": "B1",
+    "category": "describing-data",
+    "type": "noun"
+  }
+]

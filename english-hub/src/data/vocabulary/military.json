@@ -1,0 +1,222 @@
+[
+  {
+    "id": "military_001",
+    "word": "troops",
+    "ipa": "/truːps/",
+    "translation": "tropas / soldados",
+    "definition_en": "Soldiers, especially in large numbers",
+    "example": "Troops were deployed to the border.",
+    "level": "B1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_002",
+    "word": "ceasefire",
+    "ipa": "/ˈsiːs.faɪər/",
+    "translation": "alto el fuego",
+    "definition_en": "An agreement to stop fighting temporarily",
+    "example": "Both sides agreed to a ceasefire.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_003",
+    "word": "regiment",
+    "ipa": "/ˈredʒ.ɪ.mənt/",
+    "translation": "regimiento",
+    "definition_en": "A military unit of ground troops",
+    "example": "He served in the Royal Regiment for five years.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_004",
+    "word": "deploy",
+    "ipa": "/dɪˈplɔɪ/",
+    "translation": "desplegar (fuerzas)",
+    "definition_en": "To send military forces to a place for action",
+    "example": "The navy deployed ships to the region.",
+    "level": "C1",
+    "category": "military",
+    "type": "verb"
+  },
+  {
+    "id": "military_005",
+    "word": "veteran",
+    "ipa": "/ˈvet.ər.ən/",
+    "translation": "veterano/a (de guerra)",
+    "definition_en": "A person who has served in the military, especially during a war",
+    "example": "Veterans are honoured on Remembrance Day.",
+    "level": "B1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_006",
+    "word": "headquarters",
+    "ipa": "/ˈhed.kwɔː.tərz/",
+    "translation": "cuartel general",
+    "definition_en": "The main centre of operations for a military or organisation",
+    "example": "The general returned to headquarters for debriefing.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_007",
+    "word": "siege",
+    "ipa": "/siːdʒ/",
+    "translation": "asedio / sitio",
+    "definition_en": "A military operation to surround and cut off supplies to a place",
+    "example": "The city was under siege for three months.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_008",
+    "word": "intelligence",
+    "ipa": "/ɪnˈtel.ɪ.dʒəns/",
+    "translation": "inteligencia (militar)",
+    "definition_en": "Secret information gathered about an enemy",
+    "example": "Military intelligence indicated an imminent attack.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_009",
+    "word": "recruit",
+    "ipa": "/rɪˈkruːt/",
+    "translation": "reclutar / recluta",
+    "definition_en": "A new member of the armed forces; to enlist new members",
+    "example": "The army recruits thousands of young people each year.",
+    "level": "B2",
+    "category": "military",
+    "type": "verb"
+  },
+  {
+    "id": "military_010",
+    "word": "armistice",
+    "ipa": "/ˈɑː.mɪ.stɪs/",
+    "translation": "armisticio",
+    "definition_en": "A formal agreement to stop fighting",
+    "example": "The armistice was signed on 11 November 1918.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_011",
+    "word": "rank",
+    "ipa": "/ræŋk/",
+    "translation": "rango / grado militar",
+    "definition_en": "A position or level within the military hierarchy",
+    "example": "He was promoted to the rank of captain.",
+    "level": "B1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_012",
+    "word": "patrol",
+    "ipa": "/pəˈtrəʊl/",
+    "translation": "patrulla / patrullar",
+    "definition_en": "A group of soldiers moving around an area to guard it",
+    "example": "A patrol was sent to check the perimeter.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_013",
+    "word": "combat",
+    "ipa": "/ˈkɒm.bæt/",
+    "translation": "combate",
+    "definition_en": "Fighting between armed forces",
+    "example": "Many soldiers were injured in combat.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_014",
+    "word": "alliance",
+    "ipa": "/əˈlaɪ.əns/",
+    "translation": "alianza",
+    "definition_en": "A union between countries or groups for a common purpose",
+    "example": "NATO is a military alliance of several countries.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_015",
+    "word": "drone",
+    "ipa": "/drəʊn/",
+    "translation": "dron (militar)",
+    "definition_en": "An unmanned aircraft controlled remotely",
+    "example": "Drones are increasingly used for military surveillance.",
+    "level": "B1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_016",
+    "word": "conscription",
+    "ipa": "/kənˈskrɪp.ʃən/",
+    "translation": "servicio militar obligatorio",
+    "definition_en": "Compulsory enlistment in the armed forces",
+    "example": "Conscription was introduced at the start of the war.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_017",
+    "word": "artillery",
+    "ipa": "/ɑːˈtɪl.ər.i/",
+    "translation": "artillería",
+    "definition_en": "Large, heavy guns used in warfare",
+    "example": "Artillery fire destroyed the bridge.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_018",
+    "word": "strategy",
+    "ipa": "/ˈstræt.ə.dʒi/",
+    "translation": "estrategia",
+    "definition_en": "A plan designed to achieve a long-term goal in war or conflict",
+    "example": "The general devised a new military strategy.",
+    "level": "B2",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_019",
+    "word": "refugee",
+    "ipa": "/ˌref.jʊˈdʒiː/",
+    "translation": "refugiado/a",
+    "definition_en": "A person forced to leave their country due to war or persecution",
+    "example": "Thousands of refugees fled across the border.",
+    "level": "B1",
+    "category": "military",
+    "type": "noun"
+  },
+  {
+    "id": "military_020",
+    "word": "peacekeeping",
+    "ipa": "/ˈpiːsˌkiː.pɪŋ/",
+    "translation": "mantenimiento de la paz",
+    "definition_en": "Activities to maintain peace in conflict areas, often by UN forces",
+    "example": "UN peacekeeping missions are deployed worldwide.",
+    "level": "C1",
+    "category": "military",
+    "type": "noun"
+  }
+]

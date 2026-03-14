@@ -1,0 +1,222 @@
+[
+  {
+    "id": "psychology_001",
+    "word": "cognition",
+    "ipa": "/kɒɡˈnɪʃ.ən/",
+    "translation": "cognición",
+    "definition_en": "Mental processes such as thinking, learning and memory",
+    "example": "Stress can affect cognition and concentration.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_002",
+    "word": "behaviour",
+    "ipa": "/bɪˈheɪ.vjər/",
+    "translation": "comportamiento / conducta",
+    "definition_en": "The way a person or animal acts in response to a situation",
+    "example": "Psychologists study how childhood affects adult behaviour.",
+    "level": "B1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_003",
+    "word": "subconscious",
+    "ipa": "/ˌsʌbˈkɒn.ʃəs/",
+    "translation": "subconsciente",
+    "definition_en": "The part of the mind that influences behaviour without conscious awareness",
+    "example": "Fears are often rooted in the subconscious.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_004",
+    "word": "self-esteem",
+    "ipa": "/ˌself.ɪˈstiːm/",
+    "translation": "autoestima",
+    "definition_en": "Confidence and satisfaction in one's own abilities and worth",
+    "example": "Positive feedback helps build a child's self-esteem.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_005",
+    "word": "phobia",
+    "ipa": "/ˈfəʊ.bi.ə/",
+    "translation": "fobia",
+    "definition_en": "An extreme irrational fear of a specific thing",
+    "example": "Arachnophobia is a phobia of spiders.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_006",
+    "word": "cognitive bias",
+    "ipa": "/ˌkɒɡ.nɪ.tɪv ˈbaɪ.əs/",
+    "translation": "sesgo cognitivo",
+    "definition_en": "A pattern of thinking that distorts judgement",
+    "example": "Confirmation bias is a common cognitive bias.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_007",
+    "word": "resilience",
+    "ipa": "/rɪˈzɪl.i.əns/",
+    "translation": "resiliencia",
+    "definition_en": "The ability to recover from difficult situations",
+    "example": "Children who develop resilience cope better with challenges.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_008",
+    "word": "depression",
+    "ipa": "/dɪˈpreʃ.ən/",
+    "translation": "depresión",
+    "definition_en": "A mental health condition causing persistent sadness and loss of interest",
+    "example": "Depression affects millions of people worldwide.",
+    "level": "B1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_009",
+    "word": "conditioning",
+    "ipa": "/kənˈdɪʃ.ən.ɪŋ/",
+    "translation": "condicionamiento",
+    "definition_en": "A learning process by which behaviour is modified through reward or punishment",
+    "example": "Pavlov studied classical conditioning in dogs.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_010",
+    "word": "trauma",
+    "ipa": "/ˈtrɔː.mə/",
+    "translation": "trauma (psicológico)",
+    "definition_en": "A deeply distressing experience that has lasting psychological effects",
+    "example": "Many veterans experience trauma after combat.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_011",
+    "word": "motivation",
+    "ipa": "/ˌməʊ.tɪˈveɪ.ʃən/",
+    "translation": "motivación",
+    "definition_en": "The reason or desire that causes someone to act",
+    "example": "Understanding motivation helps managers lead teams better.",
+    "level": "B1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_012",
+    "word": "perception",
+    "ipa": "/pəˈsep.ʃən/",
+    "translation": "percepción",
+    "definition_en": "The way a person understands and interprets the world around them",
+    "example": "Our perception of risk is often distorted.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_013",
+    "word": "mindfulness",
+    "ipa": "/ˈmaɪnd.fəl.nəs/",
+    "translation": "atención plena / mindfulness",
+    "definition_en": "The practice of being fully aware of the present moment",
+    "example": "Mindfulness has been shown to reduce anxiety.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_014",
+    "word": "stereotype",
+    "ipa": "/ˈster.i.ə.taɪp/",
+    "translation": "estereotipo",
+    "definition_en": "An oversimplified fixed idea about a type of person",
+    "example": "Stereotypes can influence unconscious bias.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_015",
+    "word": "attachment",
+    "ipa": "/əˈtætʃ.mənt/",
+    "translation": "apego",
+    "definition_en": "A deep emotional bond with another person, especially formed in childhood",
+    "example": "Secure attachment in infancy supports healthy development.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_016",
+    "word": "empathy",
+    "ipa": "/ˈem.pə.θi/",
+    "translation": "empatía",
+    "definition_en": "The ability to understand and share the feelings of others",
+    "example": "Empathy is a key skill in therapy.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_017",
+    "word": "burnout",
+    "ipa": "/ˈbɜːn.aʊt/",
+    "translation": "agotamiento / burnout",
+    "definition_en": "Exhaustion caused by chronic work-related stress",
+    "example": "Burnout is increasingly common among healthcare workers.",
+    "level": "B2",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_018",
+    "word": "reinforcement",
+    "ipa": "/ˌriː.ɪnˈfɔːs.mənt/",
+    "translation": "refuerzo (conductual)",
+    "definition_en": "A stimulus used to encourage a desired behaviour",
+    "example": "Positive reinforcement is more effective than punishment.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_019",
+    "word": "intrinsic motivation",
+    "ipa": "/ɪnˌtrɪn.zɪk ˌməʊ.tɪˈveɪ.ʃən/",
+    "translation": "motivación intrínseca",
+    "definition_en": "Motivation driven by internal rewards like enjoyment",
+    "example": "Students with intrinsic motivation learn more deeply.",
+    "level": "C1",
+    "category": "psychology",
+    "type": "noun"
+  },
+  {
+    "id": "psychology_020",
+    "word": "identity",
+    "ipa": "/aɪˈden.tɪ.ti/",
+    "translation": "identidad",
+    "definition_en": "A person's sense of who they are",
+    "example": "Adolescence is often a time of searching for identity.",
+    "level": "B1",
+    "category": "psychology",
+    "type": "noun"
+  }
+]

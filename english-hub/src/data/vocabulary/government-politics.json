@@ -1,0 +1,222 @@
+[
+  {
+    "id": "government-politics_001",
+    "word": "parliament",
+    "ipa": "/ˈpɑː.lə.mənt/",
+    "translation": "parlamento",
+    "definition_en": "The highest law-making body of a country",
+    "example": "A new bill was introduced in parliament yesterday.",
+    "level": "B1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_002",
+    "word": "democracy",
+    "ipa": "/dɪˈmɒk.rə.si/",
+    "translation": "democracia",
+    "definition_en": "A system of government where citizens elect their leaders",
+    "example": "A free press is essential in a democracy.",
+    "level": "B1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_003",
+    "word": "legislation",
+    "ipa": "/ˌledʒ.ɪˈsleɪ.ʃən/",
+    "translation": "legislación",
+    "definition_en": "Laws made by a government",
+    "example": "New legislation on data privacy came into force last year.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_004",
+    "word": "policy",
+    "ipa": "/ˈpɒl.ɪ.si/",
+    "translation": "política (pública) / medida",
+    "definition_en": "A course of action adopted by a government or organisation",
+    "example": "The government announced a new housing policy.",
+    "level": "B1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_005",
+    "word": "election",
+    "ipa": "/ɪˈlek.ʃən/",
+    "translation": "elección / comicios",
+    "definition_en": "A formal vote to choose a person or government",
+    "example": "The general election takes place in November.",
+    "level": "A2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_006",
+    "word": "corruption",
+    "ipa": "/kəˈrʌp.ʃən/",
+    "translation": "corrupción",
+    "definition_en": "Dishonest or illegal behaviour by people in power",
+    "example": "The investigation revealed widespread corruption in the ministry.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_007",
+    "word": "coalition",
+    "ipa": "/ˌkəʊ.əˈlɪʃ.ən/",
+    "translation": "coalición",
+    "definition_en": "A government formed by two or more political parties working together",
+    "example": "The coalition government struggled to agree on key policies.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_008",
+    "word": "referendum",
+    "ipa": "/ˌref.əˈren.dəm/",
+    "translation": "referéndum",
+    "definition_en": "A public vote on a single political question",
+    "example": "The country held a referendum on independence.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_009",
+    "word": "constitution",
+    "ipa": "/ˌkɒn.stɪˈtjuː.ʃən/",
+    "translation": "constitución",
+    "definition_en": "The set of fundamental principles by which a country is governed",
+    "example": "Freedom of speech is guaranteed by the constitution.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_010",
+    "word": "diplomacy",
+    "ipa": "/dɪˈpləʊ.mə.si/",
+    "translation": "diplomacia",
+    "definition_en": "The management of relations between countries",
+    "example": "Diplomacy is often more effective than military force.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_011",
+    "word": "sanction",
+    "ipa": "/ˈsæŋk.ʃən/",
+    "translation": "sanción",
+    "definition_en": "A penalty or measure applied to a country to force a change",
+    "example": "Economic sanctions were imposed after the invasion.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_012",
+    "word": "opposition",
+    "ipa": "/ˌɒp.əˈzɪʃ.ən/",
+    "translation": "oposición (política)",
+    "definition_en": "Political parties that are not in government",
+    "example": "The opposition criticised the budget cuts.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_013",
+    "word": "welfare",
+    "ipa": "/ˈwel.feər/",
+    "translation": "bienestar / asistencia social",
+    "definition_en": "Government assistance provided to people in need",
+    "example": "The welfare system supports those who are unemployed.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_014",
+    "word": "sovereignty",
+    "ipa": "/ˈsɒv.rɪn.ti/",
+    "translation": "soberanía",
+    "definition_en": "The full right of a country to govern itself",
+    "example": "The debate centred on national sovereignty.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_015",
+    "word": "bureaucracy",
+    "ipa": "/bjʊˈrɒk.rə.si/",
+    "translation": "burocracia",
+    "definition_en": "A system of government with many complicated rules and processes",
+    "example": "The bureaucracy made it hard to get anything done quickly.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_016",
+    "word": "campaign",
+    "ipa": "/kæmˈpeɪn/",
+    "translation": "campaña (política)",
+    "definition_en": "An organised effort to achieve a political goal",
+    "example": "She ran a successful campaign for mayor.",
+    "level": "B1",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_017",
+    "word": "treaty",
+    "ipa": "/ˈtriː.ti/",
+    "translation": "tratado (internacional)",
+    "definition_en": "A formal agreement between countries",
+    "example": "The two countries signed a peace treaty.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_018",
+    "word": "census",
+    "ipa": "/ˈsen.səs/",
+    "translation": "censo",
+    "definition_en": "An official count of a population with various statistics",
+    "example": "The national census is carried out every ten years.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_019",
+    "word": "civil rights",
+    "ipa": "/ˌsɪv.əl ˈraɪts/",
+    "translation": "derechos civiles",
+    "definition_en": "The rights of citizens to political and social freedom",
+    "example": "The movement fought for equal civil rights for all people.",
+    "level": "B2",
+    "category": "government-politics",
+    "type": "noun"
+  },
+  {
+    "id": "government-politics_020",
+    "word": "veto",
+    "ipa": "/ˈviː.təʊ/",
+    "translation": "veto",
+    "definition_en": "The right to reject a decision or proposal",
+    "example": "The president used his veto to block the law.",
+    "level": "C1",
+    "category": "government-politics",
+    "type": "noun"
+  }
+]

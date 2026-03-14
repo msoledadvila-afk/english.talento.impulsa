@@ -1,0 +1,222 @@
+[
+  {
+    "id": "chemistry-science_001",
+    "word": "element",
+    "ipa": "/ˈel.ɪ.mənt/",
+    "translation": "elemento (químico)",
+    "definition_en": "A pure substance that cannot be broken down into simpler substances",
+    "example": "Oxygen is the element most essential for human life.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_002",
+    "word": "compound",
+    "ipa": "/ˈkɒm.paʊnd/",
+    "translation": "compuesto",
+    "definition_en": "A substance made from two or more elements chemically bonded",
+    "example": "Water is a compound of hydrogen and oxygen.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_003",
+    "word": "hypothesis",
+    "ipa": "/haɪˈpɒθ.ɪ.sɪs/",
+    "translation": "hipótesis",
+    "definition_en": "A proposed explanation made on the basis of limited evidence",
+    "example": "The scientist developed a hypothesis and then tested it.",
+    "level": "B2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_004",
+    "word": "experiment",
+    "ipa": "/ɪkˈsper.ɪ.mənt/",
+    "translation": "experimento",
+    "definition_en": "A scientific test carried out to discover something",
+    "example": "They conducted an experiment to measure the reaction rate.",
+    "level": "A2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_005",
+    "word": "atom",
+    "ipa": "/ˈæt.əm/",
+    "translation": "átomo",
+    "definition_en": "The smallest unit of a chemical element",
+    "example": "Everything in the universe is made of atoms.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_006",
+    "word": "molecule",
+    "ipa": "/ˈmɒl.ɪ.kjuːl/",
+    "translation": "molécula",
+    "definition_en": "A group of atoms bonded together",
+    "example": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_007",
+    "word": "reaction",
+    "ipa": "/riˈæk.ʃən/",
+    "translation": "reacción (química)",
+    "definition_en": "A chemical change that occurs when two or more substances interact",
+    "example": "The reaction between acid and metal produces gas.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_008",
+    "word": "laboratory",
+    "ipa": "/ləˈbɒr.ə.tər.i/",
+    "translation": "laboratorio",
+    "definition_en": "A room or building equipped for scientific experiments",
+    "example": "The students spent the afternoon in the chemistry laboratory.",
+    "level": "A2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_009",
+    "word": "periodic table",
+    "ipa": "/ˌpɪə.ri.ɒd.ɪk ˈteɪ.bəl/",
+    "translation": "tabla periódica",
+    "definition_en": "A chart arranging all chemical elements by atomic number",
+    "example": "The periodic table is an essential reference in chemistry.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_010",
+    "word": "catalyst",
+    "ipa": "/ˈkæt.ə.lɪst/",
+    "translation": "catalizador",
+    "definition_en": "A substance that speeds up a chemical reaction without being consumed",
+    "example": "Enzymes act as catalysts in biological processes.",
+    "level": "C1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_011",
+    "word": "soluble",
+    "ipa": "/ˈsɒl.jʊ.bəl/",
+    "translation": "soluble",
+    "definition_en": "Able to be dissolved in a liquid",
+    "example": "Salt is soluble in water.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "adjective"
+  },
+  {
+    "id": "chemistry-science_012",
+    "word": "evaporation",
+    "ipa": "/ɪˌvæp.əˈreɪ.ʃən/",
+    "translation": "evaporación",
+    "definition_en": "The process by which a liquid becomes a gas",
+    "example": "Evaporation of seawater leaves salt behind.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_013",
+    "word": "gravity",
+    "ipa": "/ˈɡræv.ɪ.ti/",
+    "translation": "gravedad",
+    "definition_en": "The force that attracts objects toward the Earth",
+    "example": "Without gravity, we would float in the air.",
+    "level": "A2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_014",
+    "word": "radiation",
+    "ipa": "/ˌreɪ.diˈeɪ.ʃən/",
+    "translation": "radiación",
+    "definition_en": "Energy emitted as electromagnetic waves or particles",
+    "example": "Long-term exposure to radiation can be dangerous.",
+    "level": "B2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_015",
+    "word": "biodegradable",
+    "ipa": "/ˌbaɪ.əʊ.dɪˈɡreɪ.də.bəl/",
+    "translation": "biodegradable",
+    "definition_en": "Capable of being broken down naturally by bacteria",
+    "example": "We should use biodegradable packaging to reduce pollution.",
+    "level": "B2",
+    "category": "chemistry-science",
+    "type": "adjective"
+  },
+  {
+    "id": "chemistry-science_016",
+    "word": "DNA",
+    "ipa": "/ˌdiː.en.ˈeɪ/",
+    "translation": "ADN",
+    "definition_en": "The molecule that carries genetic information in living organisms",
+    "example": "DNA testing can identify genetic diseases.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_017",
+    "word": "fossil fuel",
+    "ipa": "/ˈfɒs.əl ˌfjuːəl/",
+    "translation": "combustible fósil",
+    "definition_en": "Natural fuel such as coal or oil formed from ancient organic matter",
+    "example": "Burning fossil fuels releases carbon dioxide into the atmosphere.",
+    "level": "B2",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_018",
+    "word": "photosynthesis",
+    "ipa": "/ˌfəʊ.tə.ˈsɪn.θə.sɪs/",
+    "translation": "fotosíntesis",
+    "definition_en": "The process by which plants use sunlight to make food from carbon dioxide and water",
+    "example": "Photosynthesis produces oxygen as a by-product.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_019",
+    "word": "renewable energy",
+    "ipa": "/rɪˌnjuː.ə.bəl ˈen.ər.dʒi/",
+    "translation": "energía renovable",
+    "definition_en": "Energy from a natural source that is constantly replenished",
+    "example": "Solar and wind are forms of renewable energy.",
+    "level": "B1",
+    "category": "chemistry-science",
+    "type": "noun"
+  },
+  {
+    "id": "chemistry-science_020",
+    "word": "osmosis",
+    "ipa": "/ɒzˈməʊ.sɪs/",
+    "translation": "ósmosis",
+    "definition_en": "The movement of water through a membrane from a lower to higher concentration",
+    "example": "Osmosis is essential for water absorption in plant roots.",
+    "level": "C1",
+    "category": "chemistry-science",
+    "type": "noun"
+  }
+]

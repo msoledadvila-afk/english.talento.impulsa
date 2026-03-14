@@ -1,0 +1,222 @@
+[
+  {
+    "id": "medicine_001",
+    "word": "anaesthetic",
+    "ipa": "/ˌæn.əsˈθet.ɪk/",
+    "translation": "anestesia / anestésico",
+    "definition_en": "A drug used to prevent pain during surgery",
+    "example": "She was given a general anaesthetic before the operation.",
+    "level": "C1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_002",
+    "word": "dosage",
+    "ipa": "/ˈdəʊ.sɪdʒ/",
+    "translation": "dosis / dosificación",
+    "definition_en": "The amount of medicine to be taken at one time",
+    "example": "Follow the recommended dosage carefully.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_003",
+    "word": "antibiotic",
+    "ipa": "/ˌæn.ti.baɪˈɒt.ɪk/",
+    "translation": "antibiótico",
+    "definition_en": "A medicine that kills or inhibits bacteria",
+    "example": "The doctor prescribed antibiotics for the infection.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_004",
+    "word": "vaccine",
+    "ipa": "/ˈvæk.siːn/",
+    "translation": "vacuna",
+    "definition_en": "A substance that stimulates immunity to a disease",
+    "example": "The flu vaccine is available every autumn.",
+    "level": "A2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_005",
+    "word": "side effect",
+    "ipa": "/ˌsaɪd ɪˈfekt/",
+    "translation": "efecto secundario",
+    "definition_en": "An unintended effect of a medicine in addition to the main effect",
+    "example": "Nausea is a common side effect of this medication.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_006",
+    "word": "chronic",
+    "ipa": "/ˈkrɒn.ɪk/",
+    "translation": "crónico/a",
+    "definition_en": "Describing a disease or condition that lasts for a long time",
+    "example": "She manages a chronic condition with regular medication.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "adjective"
+  },
+  {
+    "id": "medicine_007",
+    "word": "clinical trial",
+    "ipa": "/ˌklɪn.ɪ.kəl ˈtraɪ.əl/",
+    "translation": "ensayo clínico",
+    "definition_en": "A research study to test a new medical treatment on people",
+    "example": "The new drug is currently in a clinical trial.",
+    "level": "C1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_008",
+    "word": "biopsy",
+    "ipa": "/ˈbaɪ.ɒp.si/",
+    "translation": "biopsia",
+    "definition_en": "The removal of a small piece of tissue for examination",
+    "example": "The doctor ordered a biopsy to check for cancer.",
+    "level": "C1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_009",
+    "word": "scan",
+    "ipa": "/skæn/",
+    "translation": "escáner / tomografía",
+    "definition_en": "A medical image of the inside of the body using X-ray or MRI",
+    "example": "He had an MRI scan after the accident.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_010",
+    "word": "transplant",
+    "ipa": "/ˈtræns.plɑːnt/",
+    "translation": "trasplante",
+    "definition_en": "An operation to replace a damaged organ with a healthy one",
+    "example": "She received a kidney transplant last year.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_011",
+    "word": "painkiller",
+    "ipa": "/ˈpeɪnˌkɪl.ər/",
+    "translation": "analgésico / calmante",
+    "definition_en": "A medicine that reduces pain",
+    "example": "Take a painkiller if the headache persists.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_012",
+    "word": "epidemic",
+    "ipa": "/ˌep.ɪˈdem.ɪk/",
+    "translation": "epidemia",
+    "definition_en": "A widespread occurrence of a disease in a community",
+    "example": "An epidemic of flu swept through the country.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_013",
+    "word": "allergy",
+    "ipa": "/ˈæl.ər.dʒi/",
+    "translation": "alergia",
+    "definition_en": "A reaction of the immune system to a harmless substance",
+    "example": "She has a severe allergy to penicillin.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_014",
+    "word": "physiotherapy",
+    "ipa": "/ˌfɪz.i.əʊˈθer.ə.pi/",
+    "translation": "fisioterapia",
+    "definition_en": "Treatment of injury or disease through physical exercises and massage",
+    "example": "After the operation she needed six weeks of physiotherapy.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_015",
+    "word": "insulin",
+    "ipa": "/ˈɪn.sjʊ.lɪn/",
+    "translation": "insulina",
+    "definition_en": "A hormone that controls blood sugar levels, used to treat diabetes",
+    "example": "Diabetic patients inject insulin daily.",
+    "level": "C1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_016",
+    "word": "symptom",
+    "ipa": "/ˈsɪmp.təm/",
+    "translation": "síntoma",
+    "definition_en": "A physical or mental sign that suggests a disease or condition",
+    "example": "Fever and cough are symptoms of COVID-19.",
+    "level": "B1",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_017",
+    "word": "immune",
+    "ipa": "/ɪˈmjuːn/",
+    "translation": "inmune",
+    "definition_en": "Protected against a disease because of having had it or been vaccinated",
+    "example": "Once vaccinated, you become immune to the disease.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "adjective"
+  },
+  {
+    "id": "medicine_018",
+    "word": "ward",
+    "ipa": "/wɔːd/",
+    "translation": "sala (de hospital)",
+    "definition_en": "A room or section in a hospital for patients with a similar condition",
+    "example": "He was moved to the cardiac ward for observation.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_019",
+    "word": "overdose",
+    "ipa": "/ˈəʊ.vər.dəʊs/",
+    "translation": "sobredosis",
+    "definition_en": "Taking too much of a medicine or drug, which can be dangerous",
+    "example": "She was hospitalised after an accidental overdose.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  },
+  {
+    "id": "medicine_020",
+    "word": "consent",
+    "ipa": "/kənˈsent/",
+    "translation": "consentimiento",
+    "definition_en": "Permission given for medical treatment",
+    "example": "Patients must give written consent before surgery.",
+    "level": "B2",
+    "category": "medicine",
+    "type": "noun"
+  }
+]

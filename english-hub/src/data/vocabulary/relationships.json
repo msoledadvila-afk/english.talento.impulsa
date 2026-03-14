@@ -1,0 +1,222 @@
+[
+  {
+    "id": "relationships_001",
+    "word": "bond",
+    "ipa": "/bɒnd/",
+    "translation": "vínculo / lazo afectivo",
+    "definition_en": "A close connection between people",
+    "example": "There is a strong bond between the two sisters.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_002",
+    "word": "trust",
+    "ipa": "/trʌst/",
+    "translation": "confianza",
+    "definition_en": "A firm belief in the honesty and reliability of another person",
+    "example": "Trust is the foundation of any good relationship.",
+    "level": "A2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_003",
+    "word": "commitment",
+    "ipa": "/kəˈmɪt.mənt/",
+    "translation": "compromiso",
+    "definition_en": "A dedication or obligation to a relationship or cause",
+    "example": "Marriage requires a lifelong commitment.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_004",
+    "word": "conflict",
+    "ipa": "/ˈkɒn.flɪkt/",
+    "translation": "conflicto",
+    "definition_en": "A serious disagreement or argument between people",
+    "example": "Conflict in a relationship can be resolved through communication.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_005",
+    "word": "mutual",
+    "ipa": "/ˈmjuː.tʃu.əl/",
+    "translation": "mutuo/a / recíproco/a",
+    "definition_en": "Shared by or between two or more people",
+    "example": "Their relationship is based on mutual respect.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "adjective"
+  },
+  {
+    "id": "relationships_006",
+    "word": "reconcile",
+    "ipa": "/ˈrek.ən.saɪl/",
+    "translation": "reconciliarse",
+    "definition_en": "To restore a friendly relationship after a disagreement",
+    "example": "After months of not speaking, they finally reconciled.",
+    "level": "C1",
+    "category": "relationships",
+    "type": "verb"
+  },
+  {
+    "id": "relationships_007",
+    "word": "boundary",
+    "ipa": "/ˈbaʊnd.ri/",
+    "translation": "límite (personal)",
+    "definition_en": "A personal limit that defines what is acceptable in a relationship",
+    "example": "Healthy relationships require clear personal boundaries.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_008",
+    "word": "jealousy",
+    "ipa": "/ˈdʒel.ə.si/",
+    "translation": "celos",
+    "definition_en": "A feeling of unhappiness because of someone else's advantages or relationships",
+    "example": "Jealousy can damage even the strongest relationships.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_009",
+    "word": "infatuation",
+    "ipa": "/ɪnˌfætʃ.uˈeɪ.ʃən/",
+    "translation": "enamoramiento / encaprichamiento",
+    "definition_en": "An intense but short-lived passion or admiration for someone",
+    "example": "What she felt was infatuation rather than true love.",
+    "level": "C1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_010",
+    "word": "platonic",
+    "ipa": "/pləˈtɒn.ɪk/",
+    "translation": "platónico/a",
+    "definition_en": "A close relationship that is not romantic or sexual",
+    "example": "They have a close but entirely platonic friendship.",
+    "level": "C1",
+    "category": "relationships",
+    "type": "adjective"
+  },
+  {
+    "id": "relationships_011",
+    "word": "empathy",
+    "ipa": "/ˈem.pə.θi/",
+    "translation": "empatía",
+    "definition_en": "The ability to understand another person's feelings",
+    "example": "Empathy is essential in any healthy relationship.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_012",
+    "word": "companion",
+    "ipa": "/kəmˈpæn.jən/",
+    "translation": "compañero/a / acompañante",
+    "definition_en": "A person who spends time with another person",
+    "example": "Her dog has been a loyal companion for years.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_013",
+    "word": "estranged",
+    "ipa": "/ɪˈstreɪndʒd/",
+    "translation": "distanciado/a / alejado/a",
+    "definition_en": "No longer close or friendly with someone",
+    "example": "He has been estranged from his family for years.",
+    "level": "C1",
+    "category": "relationships",
+    "type": "adjective"
+  },
+  {
+    "id": "relationships_014",
+    "word": "intimacy",
+    "ipa": "/ˈɪn.tɪ.mə.si/",
+    "translation": "intimidad",
+    "definition_en": "A close, warm personal relationship involving trust",
+    "example": "Intimacy takes time to develop between people.",
+    "level": "C1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_015",
+    "word": "loyalty",
+    "ipa": "/ˈlɔɪ.əl.ti/",
+    "translation": "lealtad",
+    "definition_en": "The quality of being faithful to a person or cause",
+    "example": "Loyalty is one of the most valued traits in a friend.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_016",
+    "word": "heartbreak",
+    "ipa": "/ˈhɑːt.breɪk/",
+    "translation": "dolor de amor / desamor",
+    "definition_en": "Overwhelming sadness caused by the end of a relationship",
+    "example": "She took a long time to recover from the heartbreak.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_017",
+    "word": "long-distance relationship",
+    "ipa": "/ˌlɒŋ ˌdɪs.təns rɪˈleɪ.ʃən.ʃɪp/",
+    "translation": "relación a distancia",
+    "definition_en": "A romantic relationship where partners live far apart",
+    "example": "They maintained a long-distance relationship for two years.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_018",
+    "word": "mentor",
+    "ipa": "/ˈmen.tər/",
+    "translation": "mentor/a",
+    "definition_en": "A trusted, experienced person who guides another",
+    "example": "She credits her success to her mentor's guidance.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_019",
+    "word": "rivalry",
+    "ipa": "/ˈraɪ.vəl.ri/",
+    "translation": "rivalidad",
+    "definition_en": "Competition between people or groups",
+    "example": "There is a friendly rivalry between the two teams.",
+    "level": "B2",
+    "category": "relationships",
+    "type": "noun"
+  },
+  {
+    "id": "relationships_020",
+    "word": "peer",
+    "ipa": "/pɪər/",
+    "translation": "par / igual / compañero/a",
+    "definition_en": "A person of the same age or social standing",
+    "example": "Peer pressure can influence teenagers' decisions.",
+    "level": "B1",
+    "category": "relationships",
+    "type": "noun"
+  }
+]

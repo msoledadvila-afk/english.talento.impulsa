@@ -1,0 +1,222 @@
+[
+  {
+    "id": "yard-garden_001",
+    "word": "fertiliser",
+    "ipa": "/ˈfɜː.tɪ.laɪ.zər/",
+    "translation": "fertilizante / abono",
+    "definition_en": "A substance added to soil to help plants grow",
+    "example": "She spread fertiliser on the garden before spring.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_002",
+    "word": "compost",
+    "ipa": "/ˈkɒm.pɒst/",
+    "translation": "abono orgánico / compost",
+    "definition_en": "Decayed organic material used to improve soil",
+    "example": "We use compost made from kitchen scraps.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_003",
+    "word": "prune",
+    "ipa": "/pruːn/",
+    "translation": "podar",
+    "definition_en": "To cut branches from a tree or plant to improve growth",
+    "example": "Prune the rose bushes in early spring.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "verb"
+  },
+  {
+    "id": "yard-garden_004",
+    "word": "weed",
+    "ipa": "/wiːd/",
+    "translation": "maleza / quitar maleza",
+    "definition_en": "A wild plant that grows where it is not wanted",
+    "example": "The garden was full of weeds after the rain.",
+    "level": "A2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_005",
+    "word": "irrigation",
+    "ipa": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+    "translation": "irrigación / riego",
+    "definition_en": "The process of supplying water to land for growing plants",
+    "example": "The farm uses a drip irrigation system.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_006",
+    "word": "hedge",
+    "ipa": "/hedʒ/",
+    "translation": "seto",
+    "definition_en": "A row of bushes or shrubs forming a boundary",
+    "example": "He trimmed the hedge along the driveway.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_007",
+    "word": "greenhouse",
+    "ipa": "/ˈɡriːn.haʊs/",
+    "translation": "invernadero",
+    "definition_en": "A glass building where plants are grown in a controlled temperature",
+    "example": "She grows tomatoes in her greenhouse.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_008",
+    "word": "mulch",
+    "ipa": "/mʌltʃ/",
+    "translation": "mantillo / acolchado",
+    "definition_en": "Material spread on soil to retain moisture and suppress weeds",
+    "example": "Spread mulch around the base of plants to keep them moist.",
+    "level": "C1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_009",
+    "word": "perennial",
+    "ipa": "/pəˈren.i.əl/",
+    "translation": "perenne / planta perenne",
+    "definition_en": "A plant that lives for more than two years, returning each season",
+    "example": "Lavender is a popular perennial in English gardens.",
+    "level": "C1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_010",
+    "word": "annual",
+    "ipa": "/ˈæn.ju.əl/",
+    "translation": "anual / planta anual",
+    "definition_en": "A plant that lives for one growing season",
+    "example": "Sunflowers are annuals that must be replanted each year.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "adjective"
+  },
+  {
+    "id": "yard-garden_011",
+    "word": "soil",
+    "ipa": "/sɔɪl/",
+    "translation": "tierra / suelo",
+    "definition_en": "The top layer of ground in which plants grow",
+    "example": "This soil is rich in nutrients.",
+    "level": "A2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_012",
+    "word": "seedling",
+    "ipa": "/ˈsiːd.lɪŋ/",
+    "translation": "plántula / semillero",
+    "definition_en": "A young plant grown from seed",
+    "example": "She started the seedlings indoors before planting them outside.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_013",
+    "word": "lawn",
+    "ipa": "/lɔːn/",
+    "translation": "césped / pasto",
+    "definition_en": "An area of short, regularly mowed grass",
+    "example": "He mows the lawn every Saturday morning.",
+    "level": "A2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_014",
+    "word": "patio",
+    "ipa": "/ˈpæt.i.əʊ/",
+    "translation": "patio / terraza",
+    "definition_en": "A paved outdoor area next to a house",
+    "example": "We had breakfast on the patio.",
+    "level": "A2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_015",
+    "word": "rake",
+    "ipa": "/reɪk/",
+    "translation": "rastrillo / rastrillar",
+    "definition_en": "A garden tool with a long handle and metal teeth used to gather leaves",
+    "example": "He raked the autumn leaves into a pile.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_016",
+    "word": "drought-resistant",
+    "ipa": "/ˈdraʊt rɪˌzɪs.tənt/",
+    "translation": "resistente a la sequía",
+    "definition_en": "Able to survive with little water",
+    "example": "Plant drought-resistant varieties in dry climates.",
+    "level": "C1",
+    "category": "yard-garden",
+    "type": "adjective"
+  },
+  {
+    "id": "yard-garden_017",
+    "word": "compost bin",
+    "ipa": "/ˈkɒm.pɒst bɪn/",
+    "translation": "compostera",
+    "definition_en": "A container used to collect and decompose organic waste",
+    "example": "Put your vegetable peelings in the compost bin.",
+    "level": "B1",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_018",
+    "word": "blossom",
+    "ipa": "/ˈblɒs.əm/",
+    "translation": "florecer / flor (de árbol)",
+    "definition_en": "Flowers on a tree, especially fruit trees in spring",
+    "example": "The cherry blossom is beautiful in April.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "noun"
+  },
+  {
+    "id": "yard-garden_019",
+    "word": "overgrown",
+    "ipa": "/ˌəʊ.vəˈɡrəʊn/",
+    "translation": "descuidado / cubierto de maleza",
+    "definition_en": "Covered with plants that have grown too much",
+    "example": "The garden was completely overgrown after a year of neglect.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "adjective"
+  },
+  {
+    "id": "yard-garden_020",
+    "word": "trowel",
+    "ipa": "/ˈtraʊ.əl/",
+    "translation": "desplantador / paleta de jardín",
+    "definition_en": "A small hand tool used for digging in soil",
+    "example": "She used a trowel to plant the bulbs.",
+    "level": "B2",
+    "category": "yard-garden",
+    "type": "noun"
+  }
+]

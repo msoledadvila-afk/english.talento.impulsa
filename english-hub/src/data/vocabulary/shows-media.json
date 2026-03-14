@@ -1,0 +1,222 @@
+[
+  {
+    "id": "shows-media_001",
+    "word": "broadcast",
+    "ipa": "/ˈbrɔːd.kɑːst/",
+    "translation": "transmitir / emisión",
+    "definition_en": "To send out a programme by radio or television",
+    "example": "The ceremony was broadcast live to millions of viewers.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "verb"
+  },
+  {
+    "id": "shows-media_002",
+    "word": "documentary",
+    "ipa": "/ˌdɒk.jʊˈmen.tər.i/",
+    "translation": "documental",
+    "definition_en": "A film or TV programme presenting real events",
+    "example": "The documentary on climate change won an Oscar.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_003",
+    "word": "streaming",
+    "ipa": "/ˈstriː.mɪŋ/",
+    "translation": "streaming / transmisión en línea",
+    "definition_en": "Watching or listening to content over the internet in real time",
+    "example": "Streaming services have replaced traditional TV for many people.",
+    "level": "A2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_004",
+    "word": "ratings",
+    "ipa": "/ˈreɪ.tɪŋz/",
+    "translation": "audiencia / índice de audiencia",
+    "definition_en": "The measure of how many people are watching a programme",
+    "example": "The show achieved record ratings on its first night.",
+    "level": "B2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_005",
+    "word": "correspondent",
+    "ipa": "/ˌkɒr.ɪˈspɒn.dənt/",
+    "translation": "corresponsal",
+    "definition_en": "A journalist who reports from a particular place or on a particular subject",
+    "example": "The foreign correspondent reported from the conflict zone.",
+    "level": "C1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_006",
+    "word": "episode",
+    "ipa": "/ˈep.ɪ.səʊd/",
+    "translation": "episodio",
+    "definition_en": "One part of a TV or radio series",
+    "example": "I watched three episodes in a row last night.",
+    "level": "A2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_007",
+    "word": "headline",
+    "ipa": "/ˈhed.laɪn/",
+    "translation": "titular (de periódico)",
+    "definition_en": "The title of a news article printed in large letters",
+    "example": "The story made the front-page headline.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_008",
+    "word": "bias",
+    "ipa": "/ˈbaɪ.əs/",
+    "translation": "sesgo (mediático)",
+    "definition_en": "A tendency to favour one side when reporting news",
+    "example": "Critics accused the channel of political bias.",
+    "level": "C1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_009",
+    "word": "censorship",
+    "ipa": "/ˈsen.sər.ʃɪp/",
+    "translation": "censura",
+    "definition_en": "The suppression of information or speech by authorities",
+    "example": "Press censorship limits freedom of expression.",
+    "level": "C1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_010",
+    "word": "podcast",
+    "ipa": "/ˈpɒd.kɑːst/",
+    "translation": "podcast",
+    "definition_en": "A digital audio programme available to listen to online",
+    "example": "She hosts a weekly podcast about personal finance.",
+    "level": "A2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_011",
+    "word": "circulation",
+    "ipa": "/ˌsɜː.kjʊˈleɪ.ʃən/",
+    "translation": "tirada / circulación (de prensa)",
+    "definition_en": "The number of copies of a newspaper sold on a regular basis",
+    "example": "Print newspaper circulation has fallen sharply.",
+    "level": "C1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_012",
+    "word": "anchor",
+    "ipa": "/ˈæŋ.kər/",
+    "translation": "presentador/a (de noticias)",
+    "definition_en": "The main presenter of a news programme",
+    "example": "The anchor introduced each story with a brief summary.",
+    "level": "B2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_013",
+    "word": "spin-off",
+    "ipa": "/ˈspɪn.ɒf/",
+    "translation": "derivado / spin-off",
+    "definition_en": "A new series or product that comes from an already existing one",
+    "example": "The spin-off series became more popular than the original.",
+    "level": "B2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_014",
+    "word": "misinformation",
+    "ipa": "/ˌmɪs.ɪn.fəˈmeɪ.ʃən/",
+    "translation": "desinformación",
+    "definition_en": "False or inaccurate information that is spread unintentionally",
+    "example": "Misinformation about health can be dangerous.",
+    "level": "B2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_015",
+    "word": "satire",
+    "ipa": "/ˈsæt.aɪər/",
+    "translation": "sátira",
+    "definition_en": "The use of humour or irony to criticise politics or society",
+    "example": "The TV show is a satire of modern politics.",
+    "level": "C1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_016",
+    "word": "sequel",
+    "ipa": "/ˈsiː.kwəl/",
+    "translation": "secuela",
+    "definition_en": "A film or book that continues the story of a previous one",
+    "example": "The sequel was even more successful than the original.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_017",
+    "word": "review",
+    "ipa": "/rɪˈvjuː/",
+    "translation": "reseña / crítica",
+    "definition_en": "An evaluation of a film, book or show published for the public",
+    "example": "The film received glowing reviews from critics.",
+    "level": "A2",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_018",
+    "word": "prime time",
+    "ipa": "/ˈpraɪm taɪm/",
+    "translation": "horario estelar / prime time",
+    "definition_en": "The hours of the evening when the most people are watching TV",
+    "example": "The final was broadcast in prime time.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_019",
+    "word": "subscriber",
+    "ipa": "/səbˈskraɪ.bər/",
+    "translation": "suscriptor/a",
+    "definition_en": "A person who pays to receive a regular publication or service",
+    "example": "The channel reached one million subscribers.",
+    "level": "B1",
+    "category": "shows-media",
+    "type": "noun"
+  },
+  {
+    "id": "shows-media_020",
+    "word": "interview",
+    "ipa": "/ˈɪn.tə.vjuː/",
+    "translation": "entrevista (periodística)",
+    "definition_en": "A conversation where a journalist asks questions to a public figure",
+    "example": "The president gave an exclusive interview to the newspaper.",
+    "level": "A2",
+    "category": "shows-media",
+    "type": "noun"
+  }
+]

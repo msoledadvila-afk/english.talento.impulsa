@@ -1,0 +1,222 @@
+[
+  {
+    "id": "emergency_001",
+    "word": "ambulance",
+    "ipa": "/ˈæm.bjʊ.ləns/",
+    "translation": "ambulancia",
+    "definition_en": "A vehicle for taking injured or ill people to hospital",
+    "example": "Someone called an ambulance immediately after the accident.",
+    "level": "A1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_002",
+    "word": "first aid",
+    "ipa": "/ˌfɜːst ˈeɪd/",
+    "translation": "primeros auxilios",
+    "definition_en": "Basic medical treatment given to someone who is injured before professional help arrives",
+    "example": "She gave first aid to the injured cyclist.",
+    "level": "A2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_003",
+    "word": "fire extinguisher",
+    "ipa": "/ˈfaɪər ɪkˌstɪŋ.ɡwɪ.ʃər/",
+    "translation": "extintor de incendios",
+    "definition_en": "A device used to put out small fires",
+    "example": "There is a fire extinguisher at the end of every corridor.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_004",
+    "word": "evacuate",
+    "ipa": "/ɪˈvæk.ju.eɪt/",
+    "translation": "evacuar",
+    "definition_en": "To move people from a dangerous place to safety",
+    "example": "The building was evacuated after a gas leak.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "verb"
+  },
+  {
+    "id": "emergency_005",
+    "word": "CPR",
+    "ipa": "/ˌsiː.piːˈɑːr/",
+    "translation": "RCP (reanimación cardiopulmonar)",
+    "definition_en": "An emergency procedure to restore breathing and circulation",
+    "example": "She performed CPR until the paramedics arrived.",
+    "level": "B2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_006",
+    "word": "bystander",
+    "ipa": "/ˈbaɪˌstæn.dər/",
+    "translation": "transeúnte / testigo",
+    "definition_en": "A person who is present at an incident but not involved",
+    "example": "A bystander called the emergency services.",
+    "level": "B2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_007",
+    "word": "emergency services",
+    "ipa": "/ɪˈmɜː.dʒən.si ˌsɜː.vɪ.sɪz/",
+    "translation": "servicios de emergencia",
+    "definition_en": "Police, fire and ambulance services that respond to crises",
+    "example": "Call 999 to contact the emergency services in the UK.",
+    "level": "A2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_008",
+    "word": "casualty",
+    "ipa": "/ˈkæʒ.u.əl.ti/",
+    "translation": "víctima / herido/a",
+    "definition_en": "A person killed or injured in an accident or disaster",
+    "example": "There were several casualties in the road accident.",
+    "level": "B2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_009",
+    "word": "rescue",
+    "ipa": "/ˈres.kjuː/",
+    "translation": "rescate / rescatar",
+    "definition_en": "To save someone from danger",
+    "example": "The coastguard rescued the sailors from the sinking boat.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "verb"
+  },
+  {
+    "id": "emergency_010",
+    "word": "defibrillator",
+    "ipa": "/dɪˈfɪb.rɪ.leɪ.tər/",
+    "translation": "desfibrilador",
+    "definition_en": "A machine used to restart the heart using electric shocks",
+    "example": "There is a public defibrillator outside the train station.",
+    "level": "C1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_011",
+    "word": "triage",
+    "ipa": "/ˈtriː.ɑːʒ/",
+    "translation": "triaje",
+    "definition_en": "The process of deciding the priority of treatment for patients",
+    "example": "Nurses carry out triage to assess the severity of each case.",
+    "level": "C1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_012",
+    "word": "alert",
+    "ipa": "/əˈlɜːt/",
+    "translation": "alerta / alertar",
+    "definition_en": "A warning of danger; to warn someone of a threat",
+    "example": "An alert was issued for the approaching storm.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_013",
+    "word": "hazard",
+    "ipa": "/ˈhæz.əd/",
+    "translation": "peligro / riesgo",
+    "definition_en": "A potential source of danger",
+    "example": "Wet floors are a hazard in public spaces.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_014",
+    "word": "stretcher",
+    "ipa": "/ˈstretʃ.ər/",
+    "translation": "camilla",
+    "definition_en": "A frame for carrying an injured person lying down",
+    "example": "The injured player was carried off on a stretcher.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_015",
+    "word": "trauma",
+    "ipa": "/ˈtrɔː.mə/",
+    "translation": "trauma",
+    "definition_en": "A serious physical injury, or a deeply distressing experience",
+    "example": "She suffered physical trauma from the car accident.",
+    "level": "B2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_016",
+    "word": "drill",
+    "ipa": "/drɪl/",
+    "translation": "simulacro",
+    "definition_en": "A practice exercise preparing for an emergency",
+    "example": "The school holds a fire drill every term.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_017",
+    "word": "lifeguard",
+    "ipa": "/ˈlaɪf.ɡɑːd/",
+    "translation": "salvavidas / socorrista",
+    "definition_en": "A person trained to save swimmers in difficulty",
+    "example": "The lifeguard pulled the child from the water.",
+    "level": "A2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_018",
+    "word": "shelter",
+    "ipa": "/ˈʃel.tər/",
+    "translation": "refugio / albergar",
+    "definition_en": "A safe place to go during a disaster",
+    "example": "Residents were directed to an emergency shelter.",
+    "level": "A2",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_019",
+    "word": "lockdown",
+    "ipa": "/ˈlɒk.daʊn/",
+    "translation": "confinamiento / cierre de emergencia",
+    "definition_en": "A state where people must stay in a building or area due to a threat",
+    "example": "The school went into lockdown after a security alert.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  },
+  {
+    "id": "emergency_020",
+    "word": "missing person",
+    "ipa": "/ˌmɪs.ɪŋ ˈpɜː.sən/",
+    "translation": "persona desaparecida",
+    "definition_en": "Someone whose whereabouts are unknown and who may be in danger",
+    "example": "The police launched a search for the missing person.",
+    "level": "B1",
+    "category": "emergency",
+    "type": "noun"
+  }
+]
