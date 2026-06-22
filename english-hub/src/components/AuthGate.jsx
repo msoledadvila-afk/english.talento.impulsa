@@ -6,6 +6,7 @@ import {
   onAuthStateChanged,
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
+  signOut,
 } from "firebase/auth";
 import {
   collection,
@@ -133,7 +134,21 @@ export default function AuthGate({ children }) {
   }
 
   if (user) {
-    return children;
+    return (
+      <>
+        <div className="authgate-topbar">
+          <span className="authgate-topbar-email">{user.email}</span>
+          <button
+            type="button"
+            className="authgate-logout-btn"
+            onClick={() => signOut(auth)}
+          >
+            Cerrar sesión
+          </button>
+        </div>
+        {children}
+      </>
+    );
   }
 
   return (
